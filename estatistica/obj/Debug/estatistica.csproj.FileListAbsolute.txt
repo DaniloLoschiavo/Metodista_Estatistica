@@ -1,0 +1,9 @@
+c:\users\notebook\documents\visual studio 2017\Projects\estatistica\estatistica\bin\Debug\estatistica.exe.config
+c:\users\notebook\documents\visual studio 2017\Projects\estatistica\estatistica\bin\Debug\estatistica.exe
+c:\users\notebook\documents\visual studio 2017\Projects\estatistica\estatistica\bin\Debug\estatistica.pdb
+c:\users\notebook\documents\visual studio 2017\Projects\estatistica\estatistica\obj\Debug\estatistica.csprojResolveAssemblyReference.cache
+c:\users\notebook\documents\visual studio 2017\Projects\estatistica\estatistica\obj\Debug\estatistica.Form1.resources
+c:\users\notebook\documents\visual studio 2017\Projects\estatistica\estatistica\obj\Debug\estatistica.Properties.Resources.resources
+c:\users\notebook\documents\visual studio 2017\Projects\estatistica\estatistica\obj\Debug\estatistica.csproj.GenerateResource.Cache
+c:\users\notebook\documents\visual studio 2017\Projects\estatistica\estatistica\obj\Debug\estatistica.exe
+c:\users\notebook\documents\visual studio 2017\Projects\estatistica\estatistica\obj\Debug\estatistica.pdb
